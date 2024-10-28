@@ -5,8 +5,11 @@
 With over seven years of professional experience in transportation engineering and data science, I specialize in Intelligent Transportation Systems (ITS) and data-driven solutions that improve traffic safety, efficiency, and analysis. I hold a Master's in Civil Engineering focusing on Transportation Systems from North Carolina State University. I am currently pursuing a second Master’s in Data Science.
 
 🚀 What I Do
+
 • Traffic and Transportation Consultation – Designing ITS, conducting traffic studies, developing signal designs, and performing crash data analysis to enhance public safety.
+
 • Data Analytics & Visualization – Utilizing data for predictive analysis, traffic simulation modeling, and statistical insights to support data-driven decision-making in transportation.
+
 • Technical Peer Reviewer – Reviewing papers for the Transportation Research Board (TRB) and the European Alliance for Innovation (EAI).
 
 🌱 Currently Learning & Growing
