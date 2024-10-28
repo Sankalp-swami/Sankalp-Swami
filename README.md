@@ -13,12 +13,15 @@ With over seven years of professional experience in transportation engineering a
 • Technical Peer Reviewer – Reviewing papers for the Transportation Research Board (TRB) and the European Alliance for Innovation (EAI).
 
 🌱 Currently Learning & Growing
+
 I'm currently exploring advanced machine learning applications in transportation and ITS, pushing the boundaries of what’s possible in transportation analytics and smart city technology.
 
 👥 Community Involvement
+
 As the Director of Communications for the Young Professionals in Transportation Baltimore Chapter, I manage our website and social media, fostering connections and advancing the transportation profession. Additionally, I serve as a mentor at Future Focus to guide students from India in STEM and Engineering, helping them prepare for studying abroad.
 
 🎥 Tech Enthusiast
+
 I’m passionate about sharing practical tech insights and tips, focusing on innovations and everyday technology that impact our lives. From simplifying workflows to exploring cutting-edge tools, I enjoy diving into the latest tech trends and applications.
 
 📫 Connect with Me
