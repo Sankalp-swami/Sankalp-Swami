@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Sankalp Swami
-"""
+
 🚦 Transportation Engineer | Data Scientist | Tech Enthusiast
 
 With over seven years of professional experience in transportation engineering and data science, I specialize in Intelligent Transportation Systems (ITS) and data-driven solutions that improve traffic safety, efficiency, and analysis. I hold a Master's in Civil Engineering with a focus on Transportation Engineering from North Carolina State University and am currently pursuing a second Master’s in Data Science at the University of the Cumberlands.
@@ -22,7 +22,6 @@ LinkedIn: Sankalp Swami
 Website: Coming Soon!
 GitHub Repos: Explore my projects below!
 Let’s connect, collaborate, and create solutions that bridge transportation engineering with data science. 🚗💡
-"""
 <!--
 **Sankalp-swami/Sankalp-Swami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
