@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m Sankalp Swami
 
-🚦 Transportation Engineer | Data Scientist | Tech Enthusiast
+Transportation Engineer | Data Scientist | Tech Enthusiast
 
 With over seven years of professional experience in transportation engineering and data science, I specialize in Intelligent Transportation Systems (ITS) and data-driven solutions that improve traffic safety, efficiency, and analysis. I hold a Master's in Civil Engineering focusing on Transportation Systems from North Carolina State University. I am currently pursuing a second Master’s in Data Science.
 
 
-🚀 What I Do
+What I Do
 
 • Traffic and Transportation Consultation – Designing ITS, conducting traffic studies, developing signal designs, and performing crash data analysis to enhance public safety.
 
@@ -14,7 +14,7 @@ With over seven years of professional experience in transportation engineering a
 • Technical Peer Reviewer – Reviewing papers for the Transportation Research Board (TRB) and the European Alliance for Innovation (EAI).
 
 
-🌱 Currently Learning & Growing
+Currently Learning & Growing
 
 I'm currently exploring advanced machine learning applications in transportation and ITS, pushing the boundaries of what’s possible in transportation analytics and smart city technology.
 
@@ -24,19 +24,18 @@ I'm currently exploring advanced machine learning applications in transportation
 As the Director of Communications for the Young Professionals in Transportation Baltimore Chapter, I manage our website and social media, fostering connections and advancing the transportation profession. Additionally, I serve as a mentor at Future Focus to guide students from India in STEM and Engineering, helping them prepare for studying abroad.
 
 
-🎥 Tech Enthusiast
+Tech Enthusiast
 
 I’m passionate about sharing practical tech insights and tips, focusing on innovations and everyday technology that impact our lives. From simplifying workflows to exploring cutting-edge tools, I enjoy diving into the latest tech trends and applications.
 
 
-📫 Connect with Me
+Connect with Me
 
 LinkedIn: [Sankalp Swami
 ](https://www.linkedin.com/in/sankalpswami/)
 
-Website: Coming Soon!
-
-GitHub Repos: Explore my projects below!
+Google Scholar:  [Sankalp Swami
+](https://www.linkedin.com/in/sankalpswami](https://scholar.google.com/citations?user=zfM8m3UAAAAJ&hl=en)/)
 
 Let’s connect, collaborate, and create solutions that bridge transportation engineering with data science. 🚗💡
 
