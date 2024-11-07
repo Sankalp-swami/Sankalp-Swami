@@ -35,7 +35,8 @@ LinkedIn: [Sankalp Swami
 ](https://www.linkedin.com/in/sankalpswami/)
 
 Google Scholar:  [Sankalp Swami
-](https://scholar.google.com/citations?user=zfM8m3UAAAAJ&hl=en)/)
+](https://scholar.google.com/citations?user=zfM8m3UAAAAJ&hl=en)
+
 
 Let’s connect, collaborate, and create solutions that bridge transportation engineering with data science. 🚗💡
 
