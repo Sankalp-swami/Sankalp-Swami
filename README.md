@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Sankalp Swami
+## Hi, I’m Sankalp Swami
 
 Transportation Engineer | Data Scientist | Tech Enthusiast
 
@@ -19,7 +19,7 @@ Currently Learning & Growing
 I'm currently exploring advanced machine learning applications in transportation and ITS, pushing the boundaries of what’s possible in transportation analytics and smart city technology.
 
 
-👥 Community Involvement
+Community Involvement
 
 As the Director of Communications for the Young Professionals in Transportation Baltimore Chapter, I manage our website and social media, fostering connections and advancing the transportation profession. Additionally, I serve as a mentor at Future Focus to guide students from India in STEM and Engineering, helping them prepare for studying abroad.
 
