@@ -24,7 +24,8 @@ I'm exploring advanced machine learning applications in transportation and Intel
 
 Community Involvement
 
-As the Director of Communications for the Young Professionals in Transportation Baltimore Chapter, I manage our website and social media, fostering connections and advancing the transportation profession. Additionally, I serve as a mentor at Future Focus to guide students from India in STEM and Engineering, helping them prepare for studying abroad.
+As the Director of Communications for the Young Professionals in Transportation (YPT) Baltimore Chapter, I manage our website and social media, fostering connections and advancing the transportation profession. I was recently elected as the deputy chair for the YPT Baltimore CHapter for the year 2025 
+Additionally, I serve as a mentor at Future Focus to guide students from India in STEM and Engineering, helping them prepare for studying abroad.
 
 
 
