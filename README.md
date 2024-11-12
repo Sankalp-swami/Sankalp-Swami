@@ -18,7 +18,7 @@ What I Do
 
 Currently Learning & Growing
 
-I'm currently exploring advanced machine learning applications in transportation and ITS, pushing the boundaries of what’s possible in transportation analytics and smart city technology.
+I'm exploring advanced machine learning applications in transportation and Intelligent Transportation Systems (ITS), pushing the boundaries of what’s possible in transportation analytics and ITS technologies.
 
 
 
